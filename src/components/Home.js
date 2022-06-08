@@ -1,9 +1,12 @@
-import React, { useState } from 'react';
+// import React, { useState } from 'react';
 
 
 const Home = () => {
     return ( 
-        <h1>Home page with intro heading and maybe screen grabs or svgs</h1>
+        <>
+        <h3>Home page</h3>
+        <p>With intro heading and maybe screen grabs or svgs</p>
+        </>
      );
 }
  
